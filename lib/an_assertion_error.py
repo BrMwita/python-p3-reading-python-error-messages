@@ -1,3 +1,4 @@
-#!/usr/bin/env python3
-
-assert(1 == 2)
+# More flexible version
+a = 10
+b = 10
+assert(a == b)
